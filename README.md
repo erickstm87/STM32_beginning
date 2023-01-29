@@ -12,3 +12,7 @@ Voltage, Current, Resistance, and Ohm's law: https://learn.sparkfun.com/tutorial
 How to read a Schematic: https://learn.sparkfun.com/tutorials/how-to-read-a-schematic/all 
 
 DataSheets: https://www.sparkfun.com/tutorials/223
+
+DHT11 Temp
+
+<img width="519" alt="image" src="https://user-images.githubusercontent.com/7424828/215297618-c6684da7-6994-4671-ba53-2b69d13add15.png">
